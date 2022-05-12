@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://instagram.com/_das.x?utm_medium=copy_link"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/iUAvnLv.jpeg"/></a>
 </p>
-<img align="center" fit="fill" alt="JPG" src="https://i.imgur.com/zMa7aL8.jpeg" />
+<img align="center" fit="fill" alt="JPG" src="./Dasser.png" />
  
 <h3 align="center">
  🄳🄰🅂-x5
